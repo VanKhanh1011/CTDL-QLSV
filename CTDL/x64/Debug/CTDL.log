@@ -1,0 +1,4 @@
+﻿  Main.cpp
+e:\tl2020\ctdl_hk1\new2\ctdl\ctdl\khoa.h(51): warning C4553: '==': result of expression not used; did you intend '='?
+e:\tl2020\ctdl_hk1\new2\ctdl\ctdl\sinhvien.h(395): warning C4101: 'min': unreferenced local variable
+  CTDL.vcxproj -> E:\TL2020\ctdl_hk1\new2\CTDL\x64\Debug\CTDL.exe
